@@ -1,0 +1,53 @@
+body{
+    font-family: 'Gotham Rounded', sans-serif;
+}
+#elemento{
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+    border: 2px solid #263159;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 100%;
+    height: fit-content;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.titulo{
+    width: 100%;
+    background-color: #F2CD5C;
+    height: 100px;
+    position: top;
+    max-width: 100%;
+    text-align: center;
+    padding-top: 22px;
+}
+
+footer{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.bx {
+    font-size: 30px;
+    color: black;
+}
+
+#mensajeFinal{
+
+        display: grid;
+        place-items: center;
+        
+}
